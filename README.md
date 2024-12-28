@@ -8,13 +8,13 @@ This project involves the creation of an interactive and visually appealing "Bik
 
 # Features
 
-Dynamic Filters: Slicers for filtering data by marital status, gender, and education.
+1) **Dynamic Filters:** Slicers for filtering data by marital status, gender, and education.
 
-Visualizations: Bar charts, line graphs, and pie charts to represent income per purchase, customer commute distance, age brackets, and region-wise sales.
+2) **Visualizations:** Bar charts, line graphs, and pie charts to represent income per purchase, customer commute distance, age brackets, and region-wise sales.
 
-Interactive Pivot Tables: Used to aggregate and summarize sales data efficiently.
+3) **Interactive Pivot Tables:** Used to aggregate and summarize sales data efficiently.
 
-User-Friendly Layout: Clean formatting and professional design for better readability.
+4) **User-Friendly Layout:** Clean formatting and professional design for better readability.
 
 # Steps Followed
 
@@ -36,7 +36,7 @@ Built pivot tables to summarize sales data by customer demographics, regions, an
 
 Integrated pivot tables with visualizations for dynamic updates.
 
-44) **Dashboard Design:**
+4) **Dashboard Design:**
 
 Designed an intuitive layout to present key metrics and visualizations.
 
